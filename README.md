@@ -22,6 +22,9 @@ Cadence Coach erscheint in Kürze im App Store.
 - [Webseite & Support](https://vividbreeze.github.io/cadenceCoach/)
 - [Datenschutzerklärung](https://vividbreeze.github.io/cadenceCoach/privacy.html)
 - [Impressum](https://vividbreeze.github.io/cadenceCoach/impressum.html)
+- [English: Website & Support](https://vividbreeze.github.io/cadenceCoach/en/)
+- [English: Privacy Policy](https://vividbreeze.github.io/cadenceCoach/en/privacy.html)
+- [English: Legal Notice](https://vividbreeze.github.io/cadenceCoach/en/legal-notice.html)
 
 ## Kontakt
 
